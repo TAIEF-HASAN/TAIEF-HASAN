@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ###
 
+<h1>Tech Stack: </h1>
+
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
