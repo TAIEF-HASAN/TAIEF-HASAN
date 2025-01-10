@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <h2 align="left">Hi 👋! My name is Taief Hasan and I'm a Software Engineer, Quality Assurance, from Bangladesh.</h2>
 
 ###
