@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
 **TAIEF-HASAN/TAIEF-HASAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <<br clear="both">
 
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1dD5p2Q4rU2pKVraAE6tLS16YOJjnZjCU/view?usp=sharing"  />
+  <img height="200" src="steve-jobs.jpg"  />
 </div>
 
 ###
