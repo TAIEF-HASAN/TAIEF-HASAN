@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<<br clear="both">
+<br clear="both">
 
 <div align="center">
   <img height="200" src="steve-jobs.jpg"  />
