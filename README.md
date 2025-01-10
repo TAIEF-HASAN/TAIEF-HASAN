@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Hi 👋! My name is Taief Hasan and I'm a Software Engineer, Quality Assurance, from Bangladesh.</h2>
+<h2 align="left">Hi 👋! My name is Taief Hasan and I'm a Software Engineer, Quality Assurance from Bangladesh.</h2>
 
 ###
 
