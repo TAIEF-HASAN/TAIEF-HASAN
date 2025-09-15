@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Hi 👋! My name is <strong>Taief Hasan</strong>  and I'm a <strong>Software Engineer, Quality Assurance and besides a Cusomer Support Analyst</strong> from Bangladesh.</h2>
+<h2 align="left">Hi 👋! My name is <strong>Taief Hasan</strong>,  Technical Support & QA Engineer with 3 years of experience in application support, client 
+issue resolution, and software testing. Strong in troubleshooting, SQL queries, and ERP 
+systems. Adept at bridging clients and technical teams to deliver reliable software solutions</h2>
 
 ###
 
