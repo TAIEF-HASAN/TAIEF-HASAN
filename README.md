@@ -35,65 +35,23 @@ Here are some ideas to get you started:
 
 <h1>Tech Stack: </h1>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white&style=for-the-badge" height="30" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white&style=for-the-badge" height="30" alt="nuget logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="30" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Travis CI-3EAAAF?logo=travisci&logoColor=black&style=for-the-badge" height="30" alt="travis logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=black&style=for-the-badge" height="30" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="30" alt="ansible logo"  />
- <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoftsqlserver logo"  />
+<h2 align="center">⚒️ Tech Stack</h2>
+
+<div align="center">
+
+<h3>🧪 QA & Automation</h3>
+<img src="https://skillicons.dev/icons?i=selenium,postman,cypress" height="50"/>
+
+<br/>
+
+<h3>💻 Programming</h3>
+<img src="https://skillicons.dev/icons?i=cs,js,python" height="50"/>
+
+<br/>
+
+<h3>⚙️ Tools & Technologies</h3>
+<img src="https://skillicons.dev/icons?i=git,jenkins,jira,mysql,linux" height="50"/>
+
 </div>
 
 ###
