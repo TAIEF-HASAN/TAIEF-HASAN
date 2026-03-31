@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Hi 👋! My name is <strong>Taief Hasan</strong>,  Technical Support & QA Engineer with 3 years of experience in application support, client 
-issue resolution, and software testing. Strong in troubleshooting, SQL queries, and ERP 
-systems. Adept at bridging clients and technical teams to deliver reliable software solutions</h2>
+<h2 align="left"> Hi there 👋, I'm <strong>Md Taief Hasan</strong>,  I am a passionate Software QA Engineer with 3+ years of experience in manual and automated testing. I enjoy ensuring high-quality software through structured testing, API validation, and continuous learning in automation</h2>
 
 ###
 
