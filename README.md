@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="steve-jobs.jpg" width = "900"/>
+  <img height="350" src="Mod_steve_jobs.jpg" width = "900"/>
 </div>
 
 ###
