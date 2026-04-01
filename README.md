@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br/>
 
 <h3>💻 Programming</h3>
-  <img src="https://skillicons.dev/icons?i=cs,js,python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs,js,python,java" height="50"/>
 
 <br/>
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR-ID" target="_blank">
+<a href="https://www.hackerrank.com/profile/taief_hasan880" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
