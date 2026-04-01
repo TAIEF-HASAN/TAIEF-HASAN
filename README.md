@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
-<a href="https://github.com/taief-hasan" target="_blank">
+<a href="https://github.com/TAIEF-HASAN" target="_blank">
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
