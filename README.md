@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <h3>🧪 QA & Automation</h3>
-<img src="https://skillicons.dev/icons?i=selenium,postman,cypress" height="50"/>
+<img src="https://skillicons.dev/icons?i=selenium,postman,cypress, playwright" height="50"/>
 
 <br/>
 
