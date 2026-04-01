@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-<a href="taief.hasan880@gmail.com">
+<a href="mailto:taief.hasan880@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
