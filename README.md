@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 
 <p>I am a passionate QA Engineer with 3+ years of experience ensuring software quality through structured testing, API validation, and automation. I enjoy breaking systems to make them stronger 💪</p>
 
+About Me
+🔭 Currently working on: Test Automation & API Testing
+🌱 Learning: Advanced Selenium, Cypress, CI/CD (Jenkins)
+👯 Interested in: Automation Projects & Open Source Collaboration
+💬 Ask me about: QA, Selenium, API Testing, Test Strategy
+⚡ Fun fact: I love finding bugs before users do 🐞
 ###
 
 <div align="center">
