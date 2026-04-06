@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 </div>
 
 ###
+👋 Hi, I'm Md Taief Hasan
+
+💼 Software QA Engineer | Manual & Automation Testing | API Testing
+
+I am a passionate QA Engineer with 3+ years of experience ensuring software quality through structured testing, API validation, and automation. I enjoy breaking systems to make them stronger 💪
 
 <h2 align="left"> Hi there 👋, I'm <strong>Md Taief Hasan</strong>,  I am a passionate Software QA Engineer with 3+ years of experience in manual and automated testing. I enjoy ensuring high-quality software through structured testing, API validation, and continuous learning in automation</h2>
 
