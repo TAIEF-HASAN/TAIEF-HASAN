@@ -60,6 +60,26 @@ Here are some ideas to get you started:
 </div>
 
 ###
+<h2 align="left">🚀 QA Automation Projects</h2>
+
+<div align="left">
+
+<h3>🔹 Playwright Automation Testing Project</h3>
+
+<ul>
+  <li>🔍 Automated end-to-end test scenarios using Playwright</li>
+  <li>📂 Includes UI testing (File Upload, Login, Form validation)</li>
+  <li>⚡ Built using JavaScript & Playwright</li>
+  <li>✅ Assertions implemented using expect()</li>
+</ul>
+
+<p>
+  🔗 <a href="https://github.com/TAIEF-HASAN/playwright-automation-tests" target="_blank">
+  View Project</a>
+</p>
+
+</div>
+###
 
 <h1>Social Connectivity </h1>
 
