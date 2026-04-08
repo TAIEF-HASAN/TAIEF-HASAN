@@ -74,10 +74,9 @@ Here are some ideas to get you started:
   <li>✅ Assertions implemented using expect()</li>
 </ul>
 
-<p>
-  🔗 <a href="https://github.com/TAIEF-HASAN/playwright-automation-tests" target="_blank">
-  View Project</a>
-</p>
+<a href="https://github.com/TAIEF-HASAN/playwright-automation-tests" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
