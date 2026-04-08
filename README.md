@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🔍 Automated end-to-end test scenarios using Playwright</li>
   <li>📂 Includes UI testing (File Upload, Login, Form validation)</li>
-  <li>⚡ Built using JavaScript & Playwright</li>
+  <li>⚡ Built using TypeScript  & Playwright</li>
   <li>✅ Assertions implemented using expect()</li>
 </ul>
 
