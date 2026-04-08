@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
 <h2 align="left">🚀 QA Automation Projects</h2>
 
 <div align="left">
@@ -79,6 +80,7 @@ Here are some ideas to get you started:
 </p>
 
 </div>
+
 ###
 
 <h1>Social Connectivity </h1>
