@@ -125,6 +125,6 @@ Software QA Engineer | Manual & Automation Testing | API Testing
 
   <img 
     alt="github-snake" 
-    src="https://raw.githubusercontent.com/TAIEF-HASAN/TAIEF-HASAN/output/github-snake.svg?v=2" 
+    src="https://raw.githubusercontent.com/TAIEF-HASAN/TAIEF-HASAN/output/github-snake-dark.svg?v=2" 
   />
 </picture>
