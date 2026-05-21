@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<h1>👋 Hi, I'm Md Taief Hasan</h1>
+<h2 align="left">👋 Hi, I'm Md Taief Hasan</h2>
 
 <img src="https://komarev.com/ghpvc/?username=TAIEF-HASAN&style=for-the-badge&color=blue" />
 
-<h2>💼 Software QA Engineer | Manual & Automation Testing | API Testing</h2>
+<h3 align="left">
+Software QA Engineer | Manual & Automation Testing | API Testing
+</h3>
 
 <p>I am a passionate QA Engineer with 3+ years of experience ensuring software quality through structured testing, API validation, and automation. I enjoy breaking systems to make them stronger 💪</p>
 
