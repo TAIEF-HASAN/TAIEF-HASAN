@@ -84,8 +84,6 @@ Software QA Engineer | Manual & Automation Testing | API Testing
 
 ###
 
-<h1>Social Connectivity </h1>
-
 <h1 align="left">🌐 Social Connectivity</h1>
 
 <div align="left">
