@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/TAIEF-HASAN" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/taief_hasan880" target="_blank">
