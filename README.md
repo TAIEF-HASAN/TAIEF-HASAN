@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###
 <h2 align="left">👋 Hi, I'm Md Taief Hasan</h2>
-<img src="https://komarev.com/ghpvc/?username=TAIEF-HASAN&style=for-the-badge&color=brightgreen" />
+<img src="https://komarev.com/ghpvc/?username=TAIEF-HASAN&style=for-the-badge&color=blue" />
 <h3 align="left">
 Software QA Engineer | Manual & Automation Testing | API Testing
 </h3>
