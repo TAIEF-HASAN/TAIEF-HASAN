@@ -63,7 +63,7 @@ Software QA Engineer | Manual & Automation Testing | API Testing
 
 ###
 
-<h2 align="left">🚀 QA Automation Projects</h2>
+<h2 align="left">🚀 Projects Portfolio</h2>
 
 <div align="left">
 
@@ -77,6 +77,27 @@ Software QA Engineer | Manual & Automation Testing | API Testing
 </ul>
 
 <a href="https://github.com/TAIEF-HASAN/playwright-automation-tests" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+###
+
+<h2 align="left">🚀 QA Automation Projects</h2>
+
+<div align="left">
+
+<h3>🔹 Kalkini Power Monitor</h3>
+
+<ul>
+  <li>⚡ Power monitoring and management system</li>
+  <li>📊 Tracks electrical data and system performance</li>
+  <li>🔧 Developed as a real-world monitoring solution</li>
+  <li>🚀 Currently under active development</li>
+</ul>
+
+<a href="[https://github.com/TAIEF-HASAN/playwright-automation-tests](https://github.com/TAIEF-HASAN/New-folder)" target="_blank">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
