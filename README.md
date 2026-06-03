@@ -84,8 +84,6 @@ Software QA Engineer | Manual & Automation Testing | API Testing
 
 ###
 
-<h2 align="left">🚀 QA Automation Projects</h2>
-
 <div align="left">
 
 <h3>🔹 Kalkini Power Monitor</h3>
