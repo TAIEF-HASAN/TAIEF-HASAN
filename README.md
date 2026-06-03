@@ -56,7 +56,7 @@ Software QA Engineer | Manual & Automation Testing | API Testing
 <br/>
 
 <h3>⚙️ Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,jenkins,mysql,linux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,jenkins,mysql,linux,vscode" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>
 
 </div>
