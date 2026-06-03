@@ -51,7 +51,7 @@ Software QA Engineer | Manual & Automation Testing | API Testing
 <br/>
 
 <h3>💻 Programming</h3>
-  <img src="https://skillicons.dev/icons?i=cs,js,python,java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs,js,nodejs,python,java" height="50"/>
 
 <br/>
 
