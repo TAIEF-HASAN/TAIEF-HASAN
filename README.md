@@ -105,7 +105,7 @@ I am a passionate engineer with 3+ years of experience bridging the gap between 
 
 ###
 
-<h1 align="left">🌐 Social Connectivity</h1>
+<h1 align="left">🌐 Connectivity</h1>
 
 <div align="left">
 
@@ -128,6 +128,8 @@ I am a passionate engineer with 3+ years of experience bridging the gap between 
   <a href="https://playwright.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="35"/>
   </a>
+
+  <img src="https://img.shields.io/badge/IoT-00C853?style=for-the-badge&logo=raspberrypi&logoColor=white" height="30"/>
 
 </div>
 
