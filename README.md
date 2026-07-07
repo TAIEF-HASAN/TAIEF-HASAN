@@ -86,7 +86,7 @@ Software QA Engineer | Manual & Automation Testing | API Testing
 
 <div align="left">
 
-<h3>🔹 Kalkini Power Monitor</h3>
+<h3>🔹 KPM Project Overview</h3>
 
 <ul>
   <li>⚡ Power monitoring and management system</li>
