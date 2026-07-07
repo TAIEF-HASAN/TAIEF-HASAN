@@ -91,10 +91,10 @@ I am a passionate engineer with 3+ years of experience bridging the gap between 
 <h3>🔹 KPM Project Overview</h3>
 
 <ul>
-  <li>⚡ Power monitoring and management system</li>
-  <li>📊 Tracks electrical data and system performance</li>
-  <li>🔧 Developed as a real-world monitoring solution</li>
-  <li>🚀 Currently under active development</li>
+  <li>🔌 Enterprise Decentralized IoT Ecosystem: Powered by standalone dual-core ESP32 edge nodes and real-time Firebase NoSQL streaming pipelines.</li>
+  <li>🚨 Automated Micro-Zone Fault Localization: Features an intelligent sequential chaining algorithm that detects line breaks and shrinks lineman searching perimeters to under 500 meters.</li>
+  <li>🧠 Intelligent Breaker Trip Decoder: Integrates millisecond Last-Ping Timestamp Analytics and Master-Switch state machines to programmatically differentiate between load-shedding and main breaker trips.</li>
+  <li>🔒 Production-Grade Data Masking & PWA: Implements client-side abstract proxies for utility privacy, deployed as an installable standalone application across Windows, Android, and iOS.</li>
 </ul>
 
 <a href="https://github.com/TAIEF-HASAN/KPM-Project-Overview.git" target="_blank">
