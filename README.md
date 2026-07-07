@@ -53,7 +53,7 @@ I am a passionate engineer with 3+ years of experience bridging the gap between 
 <br/>
 
 <h3>💻 Programming</h3>
-  <img src="https://skillicons.dev/icons?i=cs,js,nodejs,python,java,c++" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs,js,nodejs,python,java,C++" height="50"/>
 
 <br/>
 
