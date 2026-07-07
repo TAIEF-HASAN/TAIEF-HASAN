@@ -58,7 +58,7 @@ I am a passionate engineer with 3+ years of experience bridging the gap between 
 <br/>
 
 <h3>⚙️ Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,jenkins,mysql,linux,vscode,nosql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,jenkins,mysql,linux,vscode" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>
 
 </div>
