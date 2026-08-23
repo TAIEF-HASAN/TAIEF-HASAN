@@ -21,18 +21,25 @@ Here are some ideas to get you started:
   <img height="350" src="Mod_steve_jobs.png" width = "900"/>
 </div>
 
-###
 <h2 align="left">👋 Hi, I'm Md Taief Hasan</h2>
 <img src="https://komarev.com/ghpvc/?username=TAIEF-HASAN&style=for-the-badge&color=blue" />
+
 <h3 align="left">
-Full-Stack IoT Architect & Software Quality Automation Engineer
+SDET & IoT Product Engineer | QA Architect | Embedded Systems (ESP32) | Cloud Telemetry & Test Automation (Selenium, Cypress, Playwright) | Full-Stack Core Logic & Grid Analytics (CLGA)
 </h3>
 
 <p>
-I am a passionate engineer with 3+ years of experience bridging the gap between hardware execution and cloud software ecosystems. I specialize in designing fault-tolerant IoT networks, dynamic cloud architectures, micro-zone telemetry algorithms, and robust automation frameworks. I don't just find where systems break—I architect them to never fail 💪
+I am a passionate engineer with 3+ years of experience bridging the gap between embedded hardware execution and cloud software ecosystems. I specialize in designing fault-tolerant IoT networks, dynamic cloud architectures, micro-zone telemetry algorithms, and robust E2E test automation frameworks. I don't just find where systems break—I refactor and architect them to never fail 💪
 </p>
 
-###
+### ⚙️ Core Engineering Specs & Stack
+* **SDET & Automated Testing:** Cross-platform E2E validation across web, mobile, and IoT systems using **Cypress, Selenium WebDriver, Playwright, Appium, and Postman (REST API Gateway Assertions)**.
+* **CI/CD & Release Workflows:** Designing automated deployment gates via **GitHub Actions & GitLab CI/CD** to run regression suites and push production-ready states to **Firebase Hosting**.
+* **Embedded IoT & Grid Analytics:** Architecting high-availability smart grid monitors (**Kalkini Power Monitor**) syncing physical/virtual **ESP32 dual-core nodes with Firebase Realtime Database over LoRa/LoRaWAN** frequencies.
+* **Database & Latency Diagnostics:** Advanced querying in **SQL (PostgreSQL, MySQL)** for backend validation, memory leak profiling, and auditing micro-second latency race conditions.
+
+---
+
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taief-hasan&show_icons=true&theme=dracula" height="150"/>
