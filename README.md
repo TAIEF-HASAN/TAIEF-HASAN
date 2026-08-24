@@ -42,9 +42,8 @@ I am a passionate engineer with 3+ years of experience bridging the gap between 
 
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taief-hasan&show_icons=true&theme=dracula" height="150"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=taief-hasan&layout=compact&theme=dracula" height="150"/>
+  <img src="./profile/stats.svg" height="150" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="150" alt="Top Languages"/>
 </div>
 
 <h1>Tech Stack: </h1>
