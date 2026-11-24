@@ -46,7 +46,6 @@ I am a passionate engineer with 3+ years of experience bridging the gap between 
   <img src="./profile/top-langs.svg" height="150" alt="Top Languages"/>
 </div>
 
-<h1>Tech Stack: </h1>
 
 <h2 align="center">⚒️ Tech Stack</h2>
 
